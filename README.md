@@ -3,3 +3,4 @@
 <br>
 <p>Minishell project is recreation of linux shell using bash as a reference. It is the first big project in the Common Core of 42 school.</p>
 <p>Beside the size of the project it is also the first project that we need to do in team so we also had first teamwork experience.</p>
+<p>This project offers a lot of new stuff to learn like tokenization, execution of commands, a lot of parsing, piping, redirections...</p>
